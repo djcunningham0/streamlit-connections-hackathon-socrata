@@ -1,0 +1,5 @@
+streamlit
+sodapy
+pandas
+plotly
+sentence-transformers
